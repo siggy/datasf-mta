@@ -24,4 +24,4 @@ Item I on:
 (https://www.sfmta.com/sites/default/files/reports-and-documents/2019/04/4-16-19_agenda_-_mtab.pdf)
 
 Corresponds to:
-[`4-16-19.yellow.meter`](4-16-19.yellow.meter)
+[`4-16-19.yellow.meter.json`](4-16-19.yellow.meter.json)

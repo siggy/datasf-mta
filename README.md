@@ -21,7 +21,7 @@ Example stored as [`v5uc-gana-10804.json`](v5uc-gana-10804.json)
 ## Example agenda parsing
 
 Item I on:
-(https://www.sfmta.com/sites/default/files/reports-and-documents/2019/04/4-16-19_agenda_-_mtab.pdf)
+https://www.sfmta.com/sites/default/files/reports-and-documents/2019/04/4-16-19_agenda_-_mtab.pdf
 
 Corresponds to:
 [`4-16-19.yellow.meter.json`](4-16-19.yellow.meter.json)
